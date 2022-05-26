@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Lunch a virtual machine",
+        "description": "With EC2 (2 mins)",
+        "img":"https://i.ibb.co/pJXx0dw/vertual.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Register a domain",
+        "description": "With Route 53 (3 mins)",
+        "img":"https://i.ibb.co/Ws9yKpv/R-domain.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Start a development project",
+        "description": "With CodeStar(5 mins)",
+        "img":"https://i.ibb.co/rf56QBK/dv-P.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Build a web app",
+        "description": "With AWS App Runner (5 mins)",
+        "img":"https://i.ibb.co/xJxX8qx/web-app.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Connect an IoT device",
+        "description": "With AWS IoT (5 mins)",
+        "img":"https://i.ibb.co/KDvjNMF/connect.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Deploy a serverless microservice",
+        "description": "With API Gateway (2 mins)",
+        "img":"https://i.ibb.co/Bctz0PH/deploy.jpg"
+    }
+]
